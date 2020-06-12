@@ -7,3 +7,11 @@ Python libraries used :
 2. Scikit-learn
 3. Seaborn
 4. Matplotlib
+
+
+Analytical section consists of couple of things :
+
+1. Dealing with NULL values
+2. Dealing with exceptional entries
+3. Taking care of Unformatted entries
+4. Create dummy values for locations
