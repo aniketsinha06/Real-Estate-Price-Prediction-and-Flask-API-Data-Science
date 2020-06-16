@@ -8,6 +8,8 @@ __Description : Price Prediction of Real Estate properties based on location, nu
 3. Seaborn
 4. Matplotlib
 
+<img src="https://github.com/aniketsinha06/aniketsinha06.github.io/blob/master/images/RealEstate.jpg" alt="Logo" style="max-width:100%;">
+
 
 ### Analytical section consists of couple of things :
 
@@ -16,5 +18,4 @@ __Description : Price Prediction of Real Estate properties based on location, nu
 3. Taking care of Unformatted entries
 4. Create dummy values for locations
 
-<img src="https://github.com/aniketsinha06/aniketsinha06.github.io/blob/master/images/RealEstate.jpg" alt="Logo" style="max-width:100%;">
 
