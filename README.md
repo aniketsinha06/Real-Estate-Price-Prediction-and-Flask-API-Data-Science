@@ -28,7 +28,7 @@ __User Interface Form:__
 
 __Result__
 
-<img src="https://github.com/aniketsinha06/Real-Estate-Price-Prediction-and-Flask-API-Data-Science/blob/master/Photos/Price1.jpg" alt="Logo" style="max-width:40%;">
+<img src="https://github.com/aniketsinha06/Real-Estate-Price-Prediction-and-Flask-API-Data-Science/blob/master/Photos/Price1.jpg" alt="Logo" style="max-width:10%;">
 
 
 
