@@ -16,4 +16,5 @@ __Description : Price Prediction of Real Estate properties based on location, nu
 3. Taking care of Unformatted entries
 4. Create dummy values for locations
 
+<img src="/abhinavsagar/machine-learning-deployment/raw/master/i1.png" alt="Logo" style="max-width:100%;">
 
