@@ -18,4 +18,17 @@ __Description : Price Prediction of Real Estate properties based on location, nu
 3. Taking care of Unformatted entries
 4. Create dummy values for locations
 
+## Deployment
+### Python Flask API
+
+__User Interface Form:__
+
+<img src="https://github.com/aniketsinha06/aniketsinha06.github.io/blob/master/images/RealEstate.jpg" alt="Logo" style="max-width:100%;">
+
+
+__Result__
+
+<img src="https://github.com/aniketsinha06/aniketsinha06.github.io/blob/master/images/RealEstate.jpg" alt="Logo" style="max-width:100%;">
+
+
 
