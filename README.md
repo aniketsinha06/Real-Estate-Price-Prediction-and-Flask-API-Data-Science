@@ -23,7 +23,7 @@ __Description : Price Prediction of Real Estate properties based on location, nu
 
 __User Interface Form:__
 
-<img src="https://github.com/aniketsinha06/aniketsinha06.github.io/blob/master/images/RealEstate.jpg" alt="Logo" style="max-width:100%;">
+<img src="https://github.com/aniketsinha06/Real-Estate-Price-Prediction-and-Flask-API-Data-Science/blob/master/Photos/Price1.jpg" alt="Logo" style="max-width:100%;">
 
 
 __Result__
