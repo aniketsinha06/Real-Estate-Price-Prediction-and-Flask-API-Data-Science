@@ -32,4 +32,8 @@ __Result__
 <img src="https://github.com/aniketsinha06/Real-Estate-Price-Prediction-and-Flask-API-Data-Science/blob/master/Photos/price2.jpg" alt="Logo" style="max-width:10%;">
 
 
+### Get in touch
+<a href =  "aniketsinha06.github.io">Portfolio</a></br>
+<a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a></br>
+<a href =  "github.com/aniketsinha06">Github</a></br>
 
