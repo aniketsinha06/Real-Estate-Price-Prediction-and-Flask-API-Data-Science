@@ -36,4 +36,6 @@ __Result__
 <a href =  "aniketsinha06.github.io">Portfolio</a></br>
 <a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a></br>
 <a href =  "github.com/aniketsinha06">Github</a></br>
+<a href =  "https://www.instagram.com/machinelearning06/">Instagram</a></br>
+
 
