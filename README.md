@@ -9,6 +9,9 @@ Price Prediction of Real Estate properties based on location, number of bedrooms
 3. Seaborn
 4. Matplotlib
 
+### Preferred source for data collection :
+Kaggle Medical Mask Dataset - <a href =  "https://www.kaggle.com/ivandanilovich/medical-masks-dataset-images-tfrecords">Click here</a></br>
+
 <img src="https://github.com/aniketsinha06/aniketsinha06.github.io/blob/master/images/RealEstate.jpg" alt="Logo" style="max-width:100%;">
 
 
